@@ -32,7 +32,7 @@ export default function Header() {
             <small className="me-3">
               <i className="fas fa-envelope me-2 text-secondary"></i>
               <Link to="#" className="text-white">
-                akhil01verma@gmail.com
+                aayushchoudhary1921@gmail.com
               </Link>
             </small>
           </div>
